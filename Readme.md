@@ -125,8 +125,7 @@ print(restaurant_with_max_votes)
 ### 🍽️ Restaurant Type vs Votes
 ![Votes](Zomato-2.png)
 
-### ⭐ Ratings Distribution
-![Ratings](Output-zomato1.png)
+
 
 ## 🚀 How to Run
 
