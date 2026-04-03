@@ -117,6 +117,16 @@ print(restaurant_with_max_votes)
 * 📌 A few restaurants dominate in terms of popularity (votes)
 
 ---
+## 📊 Visualizations
+
+### 🔥 Heatmap (Correlation Analysis)
+![Heatmap](Zomato-3.png)
+
+### 🍽️ Restaurant Type vs Votes
+![Votes](Zomato-2.png)
+
+### ⭐ Ratings Distribution
+![Ratings](output-zomato1.png)
 
 ## 🚀 How to Run
 
