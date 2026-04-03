@@ -126,7 +126,7 @@ print(restaurant_with_max_votes)
 ![Votes](Zomato-2.png)
 
 ### ⭐ Ratings Distribution
-![Ratings](output-zomato1.png)
+![Ratings](Output-zomato1.png)
 
 ## 🚀 How to Run
 
